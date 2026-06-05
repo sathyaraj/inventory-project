@@ -1,0 +1,18 @@
+# Angular
+node_modules/
+dist/
+.angular/
+.vite/
+coverage/
+
+# .NET
+bin/
+obj/
+publish/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
