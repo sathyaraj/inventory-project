@@ -1,0 +1,2358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\inventoryapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iserviceitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iserviceitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\serviceitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\serviceitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\serviceitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\serviceitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\serviceitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\serviceitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\inventory.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\inventory.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\costcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\costcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\costcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\costcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\costcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\costcodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\icostcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\icostcoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\costcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\costcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\storeroomitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\storeroomitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\istoreroomitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\istoreroomitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\storeroomitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\storeroomitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\stocklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\stocklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\stockcancelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\stockcancelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\storeroomitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\storeroomitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\storeroomitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\storeroomitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\taxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\taxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\taxrepositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\taxrepositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\itaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\itaxrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\userdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\userdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\userdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\userdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\userdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\userdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iuserdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iuserdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\inventory.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\inventory.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\icurrencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\icurrencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\currencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\currencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\currencydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\currencydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\itemdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\itemdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\itemdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\itemdocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\itemdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\itemdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\itemdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\itemdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\vendoritemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\vendoritemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iitemdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iitemdocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\ivendoritemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\ivendoritemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\vendoritemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\vendoritemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\vendoritemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\vendoritemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\documentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\documentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\documentdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\documentdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\vendoritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\vendoritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\masterdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\masterdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\itemconditioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\itemconditioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\itemlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\itemlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\stocktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\stocktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\stocklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\stocklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\itemassemblyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\itemassemblyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\itemassemblycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\itemassemblycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\itemassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\itemassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\itemassemblydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\itemassemblydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\itemspecificationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\itemspecificationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\itemspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\itemspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\stocktransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\stocktransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\stocktransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\stocktransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\stocktransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\stocktransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\istocktransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\istocktransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\stockcancel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\stockcancel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\serviceitemorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\serviceitemorganization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\itemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\itemcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\itemcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\documentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\documentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\alternatesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\alternatesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\stocklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\stocklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\stocklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\stocklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\stockcancelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\stockcancelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\stockcancelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\stockcancelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\itemassemblyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\itemassemblyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iitemassemblyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iitemassemblyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\masterdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\masterdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\alternatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\alternatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\alternatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\alternatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\istockcancelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\istockcancelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\itemspecificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\itemspecificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\itemlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\itemlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\istocklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\istocklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iitemlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iitemlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\itemlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\itemlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\inventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\inventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|d:\\.net\\inventoryapp\\inventory.domain\\entities\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD22EE-C058-4D19-76B9-9909722B64C2}|Inventory.Domain\\Inventory.Domain.csproj|solutionrelative:inventory.domain\\entities\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\documentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\documentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\idocumentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\idocumentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\inventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\inventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\migrations\\20260416102957_changefieldmenudate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\migrations\\20260416102957_changefieldmenudate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\masterdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\masterdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\masterdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\masterdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\imasterdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\imasterdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\itemspecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\itemspecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\itemspecificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\itemspecificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\itemconditionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\itemconditionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iitemspecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iitemspecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\ialternatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\ialternatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\masterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\masterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\imasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\imasterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\itemconditionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\itemconditionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\controllers\\serviceitemorganizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\controllers\\serviceitemorganizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\serviceitemorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\serviceitemorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iserviceitemorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iserviceitemorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\services\\serviceitemorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\services\\serviceitemorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\alternatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\alternatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\migrations\\20260408005048_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\migrations\\20260408005048_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|d:\\.net\\inventoryapp\\inventory.api\\inventory.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DFFA61B8-F2D3-D067-3013-189357AB4D95}|Inventory.API\\Inventory.API.csproj|solutionrelative:inventory.api\\inventory.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\migrations\\20260331101630_addmastertables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\migrations\\20260331101630_addmastertables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|d:\\.net\\inventoryapp\\inventory.application\\interface\\iitemconditionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38DFA22-9A94-7011-E429-D8D56705369E}|Inventory.Application\\Inventory.Application.csproj|solutionrelative:inventory.application\\interface\\iitemconditionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|d:\\.net\\inventoryapp\\inventory.persistence\\repositories\\masterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91373730-F952-8C58-3188-B1411612CA37}|Inventory.Persistence\\Inventory.Persistence.csproj|solutionrelative:inventory.persistence\\repositories\\masterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Item.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:34:56.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceItem.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ServiceItem.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ServiceItem.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ServiceItem.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ServiceItem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:55:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceItemService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ServiceItemService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\ServiceItemService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ServiceItemService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\ServiceItemService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIAwwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:01:23.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\ItemRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\ItemRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA7wGIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:41:57.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceItemRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ServiceItemRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\ServiceItemRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ServiceItemRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\ServiceItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:58:36.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IServiceItemRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IServiceItemRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IServiceItemRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IServiceItemRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IServiceItemRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T00:56:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceItemController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ServiceItemController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\ServiceItemController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ServiceItemController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\ServiceItemController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:03:51.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\ItemService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\ItemService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:49:01.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\ItemController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwEcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:22:56.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Program.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Program.cs",
+              "RelativeToolTip": "Inventory.API\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwFoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T05:31:37.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:36:32.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.Domain.csproj",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Inventory.Domain.csproj",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Inventory.Domain.csproj",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Inventory.Domain.csproj",
+              "RelativeToolTip": "Inventory.Domain\\Inventory.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-01T06:33:55.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CostCodeController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\CostCodeController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\CostCodeController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\CostCodeController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\CostCodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:23:20.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\CompanyService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\CompanyService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:55:37.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CostCodeRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\CostCodeRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\CostCodeRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\CostCodeRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\CostCodeRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:45:35.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CostCodeService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\CostCodeService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\CostCodeService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\CostCodeService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\CostCodeService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:58:20.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICostCodeRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\ICostCodeRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\ICostCodeRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\ICostCodeRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\ICostCodeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:44:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Costcode.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Costcode.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Costcode.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Costcode.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Costcode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:41:16.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\CurrencyController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:27:04.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreroomItemService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\StoreroomItemService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\StoreroomItemService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\StoreroomItemService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\StoreroomItemService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:45:25.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StoreroomItemRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\StoreroomItemRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\StoreroomItemRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\StoreroomItemRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\StoreroomItemRepository.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:41:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStoreroomItemRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IStoreroomItemRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IStoreroomItemRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IStoreroomItemRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IStoreroomItemRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:37:53.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StockCancelController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\StockCancelController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\StockCancelController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\StockCancelController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\StockCancelController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T03:06:55.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:56:24.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StockListController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\StockListController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\StockListController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\StockListController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\StockListController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:48:43.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StoreroomItem.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\StoreroomItem.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\StoreroomItem.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\StoreroomItem.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\StoreroomItem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:34:28.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StoreroomItemController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\StoreroomItemController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\StoreroomItemController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\StoreroomItemController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\StoreroomItemController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:47:14.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITaxRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\ITaxRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\ITaxRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\ITaxRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\ITaxRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T09:04:42.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaxRepositiory.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\TaxRepositiory.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\TaxRepositiory.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\TaxRepositiory.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\TaxRepositiory.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T09:05:38.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaxService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\TaxService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\TaxService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\TaxService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\TaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T09:06:16.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TaxController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\TaxController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\TaxController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\TaxController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\TaxController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T09:07:15.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\UserDetails.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\UserDetails.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\UserDetails.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:06:31.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IRoleRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IRoleRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:24:11.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\RoleRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:25:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserDetailsController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\UserDetailsController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\UserDetailsController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\UserDetailsController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\UserDetailsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:16:38.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDetailsService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\UserDetailsService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\UserDetailsService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\UserDetailsService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\UserDetailsService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:15:27.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserDetailsRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\UserDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\UserDetailsRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\UserDetailsRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\UserDetailsRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:14:07.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:18:57.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:31:33.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:29:58.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IUserDetailsRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IUserDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IUserDetailsRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IUserDetailsRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IUserDetailsRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:07:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:28:24.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:22:12.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\RolePermission.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\RolePermission.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\RolePermission.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\RolePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:22:42.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\RoleService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\RoleService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:28:59.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:31:26.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Company.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Company.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Company.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:53:21.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:54:47.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\ICompanyRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\ICompanyRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\ICompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:52:33.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICurrencyRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\ICurrencyRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\ICurrencyRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\ICurrencyRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\ICurrencyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:19:51.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Inventory.Persistence.csproj",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Inventory.Persistence.csproj",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Inventory.Persistence.csproj",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Inventory.Persistence.csproj",
+              "RelativeToolTip": "Inventory.Persistence\\Inventory.Persistence.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T07:35:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\CurrencyService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\CurrencyService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\CurrencyService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:24:54.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DiscountRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\DiscountRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\DiscountRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\DiscountRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\DiscountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:37:47.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Discount.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Discount.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Discount.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Discount.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:36:02.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Tax.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Tax.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Tax.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Tax.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:45:59.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\DiscountService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\DiscountService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\DiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:38:26.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CurrencyRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\CurrencyRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\CurrencyRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\CurrencyRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\CurrencyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:23:54.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IDiscountRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IDiscountRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IDiscountRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IDiscountRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IDiscountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T08:36:59.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CurrencyDetails.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\CurrencyDetails.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\CurrencyDetails.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\CurrencyDetails.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\CurrencyDetails.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:17:15.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ItemDocumentService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemDocumentService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\ItemDocumentService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemDocumentService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\ItemDocumentService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:20:06.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ItemDocumentRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\ItemDocumentRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemDocumentRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\ItemDocumentRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:16:14.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ItemDocument.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemDocument.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ItemDocument.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemDocument.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ItemDocument.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:13:40.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "VendorItemsService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\VendorItemsService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\VendorItemsService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\VendorItemsService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\VendorItemsService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:02:02.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ItemDocumentController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemDocumentController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\ItemDocumentController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemDocumentController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\ItemDocumentController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAHkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:23:59.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IItemDocumentRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IItemDocumentRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemDocumentRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IItemDocumentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:14:53.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IVendorItemsRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IVendorItemsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IVendorItemsRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IVendorItemsRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IVendorItemsRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:59:48.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "VendorItemsRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\VendorItemsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\VendorItemsRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\VendorItemsRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\VendorItemsRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:03:25.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "VendorItemsController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\VendorItemsController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\VendorItemsController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\VendorItemsController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\VendorItemsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwF0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:20:57.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventory.API\\appsettings.json",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\appsettings.json",
+              "RelativeToolTip": "Inventory.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T12:17:56.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\DashboardRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\DashboardRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\DashboardRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:54:55.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\DashboardService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\DashboardService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\DashboardService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:25:34.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IDashboardRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IDashboardRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IDashboardRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IDashboardRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IDashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:52:37.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:23:56.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DocumentDetailsController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\DocumentDetailsController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\DocumentDetailsController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\DocumentDetailsController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\DocumentDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T05:59:11.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DocumentDetailsService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\DocumentDetailsService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\DocumentDetailsService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\DocumentDetailsService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\DocumentDetailsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T05:46:26.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "VendorItem.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\VendorItem.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\VendorItem.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\VendorItem.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\VendorItem.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T14:44:57.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IItemRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IItemRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:47:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "MasterdetailController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\MasterdetailController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\MasterdetailController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\MasterdetailController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\MasterdetailController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:49:54.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ItemConditionController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemConditionController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\ItemConditionController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemConditionController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\ItemConditionController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:14:48.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ItemListController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemListController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\ItemListController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemListController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\ItemListController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:04:19.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\MasterController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:32:06.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "StockTransaction.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\StockTransaction.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\StockTransaction.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\StockTransaction.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\StockTransaction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T01:47:05.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Stocklist.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Stocklist.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Stocklist.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Stocklist.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Stocklist.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:33:07.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ItemAssemblyRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemAssemblyRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\ItemAssemblyRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemAssemblyRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\ItemAssemblyRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:35:30.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ItemAssemblyController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemAssemblyController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\ItemAssemblyController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemAssemblyController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\ItemAssemblyController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:44:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ItemAssemblyDetail.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemAssemblyDetail.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ItemAssemblyDetail.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemAssemblyDetail.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ItemAssemblyDetail.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:56:33.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ItemAssembly.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemAssembly.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ItemAssembly.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemAssembly.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ItemAssembly.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:27:04.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ItemSpecificationDetails.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemSpecificationDetails.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ItemSpecificationDetails.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemSpecificationDetails.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ItemSpecificationDetails.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:28:43.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ItemSpecification.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemSpecification.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ItemSpecification.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemSpecification.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ItemSpecification.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:25:42.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "StockTransactionController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\StockTransactionController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\StockTransactionController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\StockTransactionController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\StockTransactionController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAD4v0gAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:30:30.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "StockTransactionRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\StockTransactionRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\StockTransactionRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\StockTransactionRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\StockTransactionRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:26:27.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "StockTransactionService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\StockTransactionService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\StockTransactionService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\StockTransactionService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\StockTransactionService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:28:02.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IStockTransactionRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IStockTransactionRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IStockTransactionRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IStockTransactionRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IStockTransactionRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T06:22:53.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "StockCancel.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\StockCancel.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\StockCancel.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\StockCancel.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\StockCancel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T02:48:12.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ServiceItemOrganization.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ServiceItemOrganization.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ServiceItemOrganization.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ServiceItemOrganization.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ServiceItemOrganization.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:20:22.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ItemList.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemList.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ItemList.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemList.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ItemList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T13:45:39.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ItemCondition.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemCondition.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\ItemCondition.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\ItemCondition.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\ItemCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:35:46.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DocumentDetails.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\DocumentDetails.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\DocumentDetails.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\DocumentDetails.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\DocumentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T05:40:12.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "AlternatesItem.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\AlternatesItem.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\AlternatesItem.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\AlternatesItem.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\AlternatesItem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T02:08:29.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "StockListService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\StockListService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\StockListService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\StockListService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\StockListService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:45:12.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "StockListRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\StockListRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\StockListRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\StockListRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\StockListRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawDIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:42:00.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "StockCancelRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\StockCancelRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\StockCancelRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\StockCancelRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\StockCancelRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA+wCIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T03:01:16.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "StockCancelService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\StockCancelService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\StockCancelService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\StockCancelService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\StockCancelService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T03:03:44.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ItemAssemblyService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemAssemblyService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\ItemAssemblyService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemAssemblyService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\ItemAssemblyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:41:52.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "IItemAssemblyRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemAssemblyRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IItemAssemblyRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemAssemblyRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IItemAssemblyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:32:42.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Masterdetail.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Masterdetail.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Masterdetail.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Masterdetail.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Masterdetail.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:57:51.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Master.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Master.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\Master.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\Master.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:55:42.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "AlternatesController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\AlternatesController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\AlternatesController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\AlternatesController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\AlternatesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T08:21:45.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "IStockCancelRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IStockCancelRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IStockCancelRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IStockCancelRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IStockCancelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T03:00:22.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "AlternatesService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\AlternatesService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\AlternatesService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\AlternatesService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\AlternatesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T04:48:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ItemSpecificationController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemSpecificationController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\ItemSpecificationController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ItemSpecificationController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\ItemSpecificationController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:48:55.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Inventory.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Inventory.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T15:01:28.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "IStockListRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IStockListRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IStockListRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IStockListRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IStockListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:40:31.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "ItemListService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemListService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\ItemListService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemListService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\ItemListService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:53:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "IItemListRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemListRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IItemListRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemListRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IItemListRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T13:49:02.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "ItemListRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemListRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\ItemListRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemListRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\ItemListRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T14:04:53.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:24:48.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "Inventory.API.csproj",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Inventory.API.csproj",
+              "RelativeDocumentMoniker": "Inventory.API\\Inventory.API.csproj",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Inventory.API.csproj",
+              "RelativeToolTip": "Inventory.API\\Inventory.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-01T06:42:04.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\IUserService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:27:25.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\UserSession.cs",
+              "RelativeDocumentMoniker": "Inventory.Domain\\Entities\\UserSession.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Domain\\Entities\\UserSession.cs",
+              "RelativeToolTip": "Inventory.Domain\\Entities\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T04:19:45.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "DocumentDetailsRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\DocumentDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\DocumentDetailsRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\DocumentDetailsRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\DocumentDetailsRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T05:47:45.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "IDocumentDetailsRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IDocumentDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IDocumentDetailsRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IDocumentDetailsRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IDocumentDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T05:44:53.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T02:58:41.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "Inventory.Application.csproj",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Inventory.Application.csproj",
+              "RelativeDocumentMoniker": "Inventory.Application\\Inventory.Application.csproj",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Inventory.Application.csproj",
+              "RelativeToolTip": "Inventory.Application\\Inventory.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-28T07:48:20.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "20260416102957_changefieldmenudate.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Migrations\\20260416102957_changefieldmenudate.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Migrations\\20260416102957_changefieldmenudate.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Migrations\\20260416102957_changefieldmenudate.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Migrations\\20260416102957_changefieldmenudate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:39:17.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "MasterdetailRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\MasterdetailRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\MasterdetailRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\MasterdetailRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\MasterdetailRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T08:30:29.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "MasterdetailService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\MasterdetailService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\MasterdetailService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\MasterdetailService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\MasterdetailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:49:42.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "IMasterdetailRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IMasterdetailRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IMasterdetailRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IMasterdetailRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IMasterdetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:46:32.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "ItemSpecificationRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemSpecificationRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\ItemSpecificationRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemSpecificationRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\ItemSpecificationRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:39:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "ItemSpecificationService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemSpecificationService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\ItemSpecificationService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemSpecificationService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\ItemSpecificationService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:43:59.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "ItemConditionRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemConditionRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\ItemConditionRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ItemConditionRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\ItemConditionRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T10:08:40.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "IItemSpecificationRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemSpecificationRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IItemSpecificationRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemSpecificationRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IItemSpecificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:38:05.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "IAlternatesRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IAlternatesRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IAlternatesRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IAlternatesRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IAlternatesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T04:46:26.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "MasterService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\MasterService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\MasterService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\MasterService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\MasterService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:40:25.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "IMasterRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IMasterRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IMasterRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IMasterRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IMasterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:37:59.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "ItemConditionService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemConditionService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\ItemConditionService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ItemConditionService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\ItemConditionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:57:25.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "IServiceItemOrganizationRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IServiceItemOrganizationRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IServiceItemOrganizationRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IServiceItemOrganizationRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IServiceItemOrganizationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:23:32.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "ServiceItemOrganizationRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ServiceItemOrganizationRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\ServiceItemOrganizationRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\ServiceItemOrganizationRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\ServiceItemOrganizationRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:24:47.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "ServiceItemOrganizationController.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ServiceItemOrganizationController.cs",
+              "RelativeDocumentMoniker": "Inventory.API\\Controllers\\ServiceItemOrganizationController.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Controllers\\ServiceItemOrganizationController.cs",
+              "RelativeToolTip": "Inventory.API\\Controllers\\ServiceItemOrganizationController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAlwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:37:48.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "ServiceItemOrganizationService.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ServiceItemOrganizationService.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Services\\ServiceItemOrganizationService.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Services\\ServiceItemOrganizationService.cs",
+              "RelativeToolTip": "Inventory.Application\\Services\\ServiceItemOrganizationService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA5wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T01:31:53.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "AlternatesRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\AlternatesRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\AlternatesRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\AlternatesRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\AlternatesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:28:46.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "20260408005048_Item.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Migrations\\20260408005048_Item.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Migrations\\20260408005048_Item.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Migrations\\20260408005048_Item.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Migrations\\20260408005048_Item.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAowBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T00:51:28.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "Inventory.API.http",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.API\\Inventory.API.http",
+              "RelativeDocumentMoniker": "Inventory.API\\Inventory.API.http",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.API\\Inventory.API.http",
+              "RelativeToolTip": "Inventory.API\\Inventory.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-08T00:40:53.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "20260331101630_AddMasterTables.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Migrations\\20260331101630_AddMasterTables.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Migrations\\20260331101630_AddMasterTables.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Migrations\\20260331101630_AddMasterTables.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Migrations\\20260331101630_AddMasterTables.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T00:36:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "IItemConditionRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemConditionRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Application\\Interface\\IItemConditionRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Application\\Interface\\IItemConditionRepository.cs",
+              "RelativeToolTip": "Inventory.Application\\Interface\\IItemConditionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T09:58:41.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "MasterRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\MasterRepository.cs",
+              "RelativeDocumentMoniker": "Inventory.Persistence\\Repositories\\MasterRepository.cs",
+              "ToolTip": "D:\\.Net\\inventoryapp\\Inventory.Persistence\\Repositories\\MasterRepository.cs",
+              "RelativeToolTip": "Inventory.Persistence\\Repositories\\MasterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T08:09:29.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
